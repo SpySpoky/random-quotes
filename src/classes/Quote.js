@@ -5,6 +5,14 @@ class Quote {
         this.author = author;
         //this.isFavorite = false;
     }
+
+    formatedText() {
+        return `${this.text}`;
+    }
+
+    formatedAuthor() {
+        return `© ${this.author}`;
+    }
     
 }
 
