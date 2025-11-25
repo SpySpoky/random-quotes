@@ -16,4 +16,6 @@ class Quote {
     
 }
 
+
+
 export default Quote;
