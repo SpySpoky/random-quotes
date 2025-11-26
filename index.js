@@ -1,4 +1,4 @@
-import RandomQuotesApp from './src/classes/RandomQuotesApp.js';
+import RandomQuotesApp from './client/src/classes/RandomQuotesApp.js';
 
 new RandomQuotesApp();
 
